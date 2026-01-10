@@ -34,7 +34,7 @@ My background bridges **Management and Finance foundations** with **rigorous com
 
 ## 🎓 Academic Background
 
-- **B.Sc. (Management, Finance concentration)** — Universitas Pertamina, Indonesia  
+- **Bachelor’s Degree (Sarjana Manajemen, S.M.) — Management (Finance)** — Universitas Pertamina, Indonesia  
 - **Exchange Scholar (IISMA Awardee)** — University of Edinburgh, UK  
 - **Current Focus:** Transition from applied management/finance toward **methodological statistics and probabilistic modeling**  
 - **Intended Path:** MS/PhD in Statistics (research-oriented track)
